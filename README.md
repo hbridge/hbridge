@@ -1,5 +1,5 @@
 ### Hello 👋
-I lead [Ambrook Labs](https://www.ambrook.com/) Engineering Team.  We're building cutting edge software to help Farmers understand their businesses and make them more resilient so they can stay independent.  
+I lead the [Ambrook Labs](https://www.ambrook.com/) Engineering Team.  We're building cutting edge software to help Farmers understand their businesses and make them more resilient so they can stay independent.  
 
 ### Interested in working at Ambrook? 🚜
 Message me at: https://www.linkedin.com/in/hbridge/
