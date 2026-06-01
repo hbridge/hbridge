@@ -1,5 +1,5 @@
 ### Hello 👋
-I'm a Product Engineer who cares deeply about building tech for good -- particularly climate tech. I lead the [Ambrook Labs](https://www.ambrook.com/) Engineering Team: we're building cutting edge software to help Farmers understand their businesses and make them more resilient so they can stay independent.  
+I'm a Product Engineer who cares deeply about building tech for good -- particularly climate tech. I lead the [Ambrook Labs](https://www.ambrook.com/) Engineering Team.  Ambrook is focussed on building tools to help Farmers understand their businesses and make them more resilient so they can stay independent, and the Labs team is responsible for realizing some of our boldest ideas.
 
 ### Get in touch 📬
 Message me at: https://www.linkedin.com/in/hbridge/
